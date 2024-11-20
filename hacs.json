@@ -1,5 +1,6 @@
 {
   "name": "BigNumber-Duo",
-  "content_in_root": true,
-  "filename": "bigNumber-duo.js"
+  "render_readme": true,
+  "content_in_root": false,
+  "filename": "BigNumber-Duo.js"
 }
